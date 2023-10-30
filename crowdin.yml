@@ -1,0 +1,21 @@
+"project_id": "621934"
+"api_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGljbVV5VCIsImp0aSI6ImQzMmI0NjNhMDY5YTRjN2EwMjU2NDk5NzhkYTM3MzYzNDQ2ODRkODlkZjQ2Nzk1NmRmNDY3MTlkZGU3NjQxZjUxY2NlZWRiYzVlYzI1NGZhIiwiaWF0IjoxNjk3NzkxNzM0LjkwMjI1NCwibmJmIjoxNjk3NzkxNzM0LjkwMjI1NiwiZXhwIjoxNzI5MzI3NzM0LjgyODA0Mywic3ViIjoiMTU4MzQ3MzciLCJzY29wZXMiOlsicHJvamVjdCJdLCJkb21haW4iOm51bGwsImFzc29jaWF0aW9ucyI6WyIqIl0sInNlc3Npb24iOjB9.IYrGr6QiXGT79NXrfOPr3mPwIpPC6qUyV0axQFa7zx-Rtayfxott9Q4-HJCWWncVEcD7xRqIcG2T6Uh_Bab_ADsnHfk71_VT0IKSplr6OyGCOGKwbM92mysavxr3c8HaRXXwIf0kznx0xX_c0WlvqD5nt4ZqTMtX7Wcf9Fwfnbfyye2F3_dSYMnVk-FiJDDnNcvPIZHLTczmRJ7y9nxBt1SmoMXQMF3EIP-tkqTKx6m_2mMomk_Kz6PUZR9i5Q6kBa0b2Z9_iK_MCZzSbMLBeB8UMtg4AFjXhgG1Py2xP9EYrygqXLfBAlHnuGVqGDlrotYGtvr_VHtpzgHkvQxkWD3JXlDAZ0xgsMwedTZGyZ-oj5l0JaiY-DRc4UzD35V_HYWaDATFDMsZ3Uildt7l7MjeGZWfdv4vRA71gTQS7DddCVR0wy0gadiRQHfhbuIBNc3t1sfHJLtZ15UaSZ-DRPkLLjobcusJA1qgCWg4noYxZiw6Tm6Wmo5XbUTSFARZI_Cg-JbzRnYH_M0_mbjrxoxbCP6sX0jPV52zSV-i5NDN0mr3bBF598Rjqc-7WidmrfT17rhblE9dPcL4LrVTRmC3QObFw0dk0ew-hK9ex1dJfcu9XSHjDRxHxs58XW5tMlEJg4KbWQ07q3Vx0jlkFNzPnBvVDXW5UablbTby6A8"
+"base_path": "translations"
+"base_url": "https://api.crowdin.com"
+"preserve_hierarchy": true
+
+files: [
+  {
+    "source": "/en-US.json",
+    "dest" : "fm-demo/translations/en-US.json",
+    "translation": "/%locale%.json",
+    "update_option": "update_as_unapproved"
+  }
+]
+"pull_request_title": "Crowdin translations for Frontend"
+"pull_request_labels": [
+  "Pikachu"
+]
+"commit_message": "fix(): New translations %original_file_name% from Crowdin"
+"append_commit_message": false
+"pull_request_assignees": ["eswar-kumar-bade"]

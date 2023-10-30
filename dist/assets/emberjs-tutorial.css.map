@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"/Users/ebade/emberjs-tutorial/app/styles","sources":["../../out-250-broccoli_merge_trees_full_application/app/styles/app.scss"],"names":[],"mappings":"AAAA;EACI","file":"emberjs-tutorial.css","sourcesContent":["body{\n    background-color: mediumturquoise;\n}"]}
