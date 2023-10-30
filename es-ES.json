@@ -1,8 +1,8 @@
 {
-  "common": "Hey there",
-  "common.get": "Get it",
+  "common": "Hola",
+  "common.get": "Obtenerlo",
   "demo": "demo",
-  "close": "close",
-  "cancel": "cancel",
-  "or": "or"
+  "close": "cerrar",
+  "cancel": "cancelar",
+  "or": "o"
 }
