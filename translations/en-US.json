@@ -5,5 +5,7 @@
   "close" : "close",
   "cancel" : "cancel",
   "or": "or",
-  "mine": "mine"
+  "mine": "mine",
+  "get": "Get",
+  "come": "Come"
 }
