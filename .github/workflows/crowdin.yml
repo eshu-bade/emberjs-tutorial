@@ -1,10 +1,7 @@
 files:
   - source: /translations/en-US.json
-    dest: /translations/en-US.json
     translation: /%locale%.json
     update_option: update_as_unapproved
-  - source: /translations/en-US.json
-    translation: /translations/%locale%.json
 pull_request_title: Crowdin translations for Frontend
 pull_request_labels:
   - Pikachu
