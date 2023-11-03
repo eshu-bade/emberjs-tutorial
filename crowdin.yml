@@ -5,7 +5,7 @@ files:
 pull_request_title: Crowdin translations for Frontend
 pull_request_labels:
   - Pikachu
-commit_message: 'fix(): New translations %original_file_name% from Crowdin'
+commit_message: 'fix(): New translations %locale% from Crowdin'
 append_commit_message: 
 pull_request_assignees:
   - eswar-kumar-bade
